@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
 <h3 align="center">A passionate frontend developer student from Norway</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on my exam project Holidaze
 
 - 👨‍💻 All of my projects are available at [[sanhamm.no](https://www.sanhamm.no/Portofolio/index.html)]
 
