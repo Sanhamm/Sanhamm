@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on mye exam Holidaze
 
-- 👨‍💻 All of my projects are available at [sanhamm.no/portofolio](sanhamm.no/portofolio)](https://www.sanhamm.no/Portofolio/index.html)
+- 👨‍💻 All of my projects are available at https://www.sanhamm.no/Portofolio/index.html
 
 - 📫 How to reach me **utviklersander@gmail.com**
 
